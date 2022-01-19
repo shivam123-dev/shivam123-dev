@@ -7,4 +7,4 @@ shivam123-dev/shivam123-dev is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam123-dev)](https://github.com/shivam123-dev/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam123-dev&count_private=true)](https://github.com/shivam123-dev/github-readme-stats)

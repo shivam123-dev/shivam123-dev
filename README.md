@@ -7,7 +7,7 @@
 </a>
 </h3> 
 
-- <strong>@shivam123-dev</strong><br>
+- <strong>Hey Everyone!! This is <a href="https://www.github.com/shivam123-dev/" style="text-decoration:none !important;">Shivam Singh </a></strong><br>
 - Interested in learning new things<br>
 - <em>Currently building Tools for DSA</em><br>
  

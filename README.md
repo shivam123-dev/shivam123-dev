@@ -12,7 +12,7 @@
 - <em>Currently building Tools for DSA</em><br>
  
 --------
-<p align = "center">
+<p>
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivam123-dev&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/shivam123-dev)
 

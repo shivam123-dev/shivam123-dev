@@ -1,6 +1,7 @@
-<h1 align="center">Be The One and Only</h1>
+<!--
+<h1 align="center">Be The One and Only</h1> -->
 <h3 align="center"><strong>Shivam Singh</strong></h3> 
-<!-- Shivam Singh -->
+<!-- Shivam Singh --><!--
 <h3 align="center">Connect with me on  
 <a href="https://www.linkedin.com/in/shivam123-dev/">
  <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px" />
@@ -10,7 +11,7 @@
 - <strong>Hey Everyone!! This is <a href="https://www.github.com/shivam123-dev/" style="text-decoration:none !important;">Shivam Singh </a></strong><br>
 - Interested in learning new things<br>
 - <em>Currently building Tools for DSA</em><br>
-<!--
+
 <hr>
 <h3 align="center"> My Github Streak </h3>
 <p align="center">

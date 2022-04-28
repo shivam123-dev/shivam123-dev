@@ -10,7 +10,7 @@
 - <strong>Hey Everyone!! This is <a href="https://www.github.com/shivam123-dev/" style="text-decoration:none !important;">Shivam Singh </a></strong><br>
 - Interested in learning new things<br>
 - <em>Currently building Tools for DSA</em><br>
- 
+<!--
 <hr>
 <h3 align="center"> My Github Streak </h3>
 <p align="center">
@@ -36,3 +36,4 @@
    <img src="https://activity-graph.herokuapp.com/graph?username=shivam123-dev&theme=dracula" />
   </a> 
 </p>
+-->
